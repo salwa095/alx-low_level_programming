@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc $CFIE -c -o cisfun
+gcc $CFIE -o cisfun
