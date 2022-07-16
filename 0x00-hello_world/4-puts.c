@@ -1,9 +1,9 @@
 #include <stdio.h>
-/**
+/*
  *
  *  * main - Entry point
  *
- *   * Description: 'the program's description'
+ *   * Description: 'C program for puts char function'
  *
  *    * Return: Always 0 (Success)
  *
