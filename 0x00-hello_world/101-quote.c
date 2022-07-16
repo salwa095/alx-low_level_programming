@@ -2,7 +2,7 @@
 #include <unistd.h>
 
 /**
-* Main - main block
+* main - entry point of program
 * Description: 'prints exactly and that piece of art is useful'
 * Return: 0 is success
 */
