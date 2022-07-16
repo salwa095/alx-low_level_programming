@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
-* main point
+* main - starting point in program
 * description: 'printing size of various data types'
-* returns: 0 is successfdully
+* return: 0 is successfdully
 */
 
 int main(void)
