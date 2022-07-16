@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <string.h>
+#include <unistd.h>
 /**
 * Main - starting point of c
 * Description - 'printing characters without using print'
