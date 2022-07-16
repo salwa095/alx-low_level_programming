@@ -2,8 +2,8 @@
 #include <string.h>
 #include <unistd.h>
 /**
-* Main - starting point of c
-* Description - 'printing characters without using print'
+* Main - prints exactly "and that piece of art is useful"
+* Description: 'printing characters without using print'
 * Return: 0 is success
 */
 int main(void)
