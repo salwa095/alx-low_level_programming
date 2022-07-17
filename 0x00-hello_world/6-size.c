@@ -2,7 +2,7 @@
 /**
 * main - starting point in program
 * description: 'printing size of various data types'
-* return: 0 is successfdully
+* Return: 0 is successfdully
 */
 
 int main(void)
