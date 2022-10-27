@@ -1,21 +1,18 @@
-#include <stdio.h>
-
-#include <stdlib.h>
+#include<stdio.h>
 
 /**
+ * main - Entry point
  *
- * * main - the starting point in C program
- *
- * * Description: -Print 
- *
- * * return: 0
- *
- * */
-
+ * Return: Always 0 (success)
+ */
 int main(void) 
 {
-int ch='a';
-putchar(ch);
+int x;
+for(x='a'; x <='z'; x++)
+{
 
-return (0);
+putchar(x);
+
+}
+return(0);
 }
