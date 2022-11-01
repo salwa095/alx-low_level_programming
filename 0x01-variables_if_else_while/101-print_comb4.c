@@ -1,8 +1,7 @@
 #include<stdio.h>
 
 /**
- *
- * main - Entry pint
+ * main - Entry point
  *
  * Return: Always success (0)
  */
