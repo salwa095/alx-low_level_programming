@@ -1,12 +1,19 @@
-#include<stdio.h>
-#include<main.h>
+#include "main.h"
+
 /**
- * main - Entry point
- *
- * Return: Always success (0)
+ * main - prints together
+ * Return: always 0
  */
+
 int main(void)
 {
-write("hello");
+_putchar('_');
+_putchar('p');
+_putchar('u');
+_putchar('t');
+_putchar('c');
+_putchar('h');
+_putchar('a');
+_putchar('r');
 return (0);
 }
