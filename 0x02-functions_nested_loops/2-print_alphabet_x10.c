@@ -12,7 +12,9 @@ char alpha;
 for (alpha = 'a'; alpha <= 'z'; alpha++)
 {
 if (n <= 9)
+{
 _putchar(alpha);
+}
 }
 _putchar('\n');
 }
