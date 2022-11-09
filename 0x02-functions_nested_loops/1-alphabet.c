@@ -5,7 +5,7 @@
 *
 * Return: Always 0.
 */
-void alphabet(void)
+void print_alphabet(void)
 {
 char c;
 for (c = 'a'; c <= 'z'; c++)
