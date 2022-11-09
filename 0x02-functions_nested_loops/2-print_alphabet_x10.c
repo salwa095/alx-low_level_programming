@@ -7,12 +7,12 @@
  */
 void print_alphabet_x10(void)
 {
-int n;
+int n = 0;
 char alpha;
 for (alpha = 'a'; alpha <= 'z'; alpha++)
 {
 if (n <= 9)
 _putchar(alpha);
 }
-_putchat('\n');
+_putchar('\n');
 }
