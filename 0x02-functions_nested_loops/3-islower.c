@@ -5,7 +5,7 @@
  *
  * Return 1 if int c is lowercase, 0 if otherwise
  */
-int _islower(int c);
+int _islower(int c)
 {
 char c='a';
 if (islower(c))
