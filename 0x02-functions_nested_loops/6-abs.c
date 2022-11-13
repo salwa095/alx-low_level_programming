@@ -5,12 +5,11 @@
 * @ab: integer input
 * Return: absolute value of ab
 */
-int _abs(int)
+int _abs(int a)
 {
-a = -9;
 if ( a < 0)
 {
-a = (a) * a;
-_putchar(a + '0');
+n = -n;
+return (-n);
 }
 }
