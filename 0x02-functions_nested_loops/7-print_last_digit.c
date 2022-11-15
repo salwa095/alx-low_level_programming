@@ -13,6 +13,6 @@ if (b < 0)
 b = -b;
 s = (b % 10);
 _putchar(s + '0');
-return (s);
 }
+return (s);
 }
