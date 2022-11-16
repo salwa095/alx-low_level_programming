@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * 24_hours - function that prints every minute of the day
+ * jack_bauer - function that prints every minute of the day
  * h = hours, m = minutes
  * Return: Always 0 if success
  */
