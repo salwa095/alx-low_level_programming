@@ -15,7 +15,8 @@ printf("%d", n++);
 printf("%d", n);
 printf("\n");
 }
-else if(n >= 98)
+
+else
 {
 while (n > 98)
 {
