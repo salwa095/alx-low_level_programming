@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * time_table - function that prints 9 times table starting with 0
+ * times_table - function that prints 9 times table starting with 0
  * Return
  */
 void times_table(void)
@@ -23,4 +23,5 @@ _putchar((prod % 10) + '0');
 }
 _putchar((prod % 10) + '0');
 }
+_putchar('\n');
 }
